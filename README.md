@@ -1,1 +1,1 @@
-# Codein Mentors' Playground.
+# Code-in Mentors' Playground.
